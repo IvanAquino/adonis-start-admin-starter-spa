@@ -10,7 +10,7 @@
 * Powered by [AdonisJS](https://adonisjs.com)
 
 ## Installation
-adonis new myapp --blueprint=IvanAquino/adonis-vuetify-starter
+adonis new myapp --blueprint=IvanAquino/adonis-start-admin-starter-spa
 
 ## Vue App
 
@@ -49,6 +49,6 @@ this.$http.get(`${window.basePath}/auth/user`, {headers})
 
 ## Captures
 
-![](https://lh6.googleusercontent.com/fo_GQbnlBGHdV0Vk9n-IaHBoaBzA_eR2XXu3GP9JxKEgZbj8I4xOTzE6rqf8WsVC_SdH686k8SJ2hWv7m0SE=w2213-h895-rw)
+![login](https://lh6.googleusercontent.com/fo_GQbnlBGHdV0Vk9n-IaHBoaBzA_eR2XXu3GP9JxKEgZbj8I4xOTzE6rqf8WsVC_SdH686k8SJ2hWv7m0SE=w2213-h895-rw)
 
-![](https://lh3.googleusercontent.com/gIEd6tFvepRrN9eaDlHUkALmN1VGjh4i6MhIesj1uRAS7K3WV2CCq2O6StthQqP4xMSU5OosCeuLTv2tXISf=w2213-h895-rw)
+![dashboard](https://lh3.googleusercontent.com/gIEd6tFvepRrN9eaDlHUkALmN1VGjh4i6MhIesj1uRAS7K3WV2CCq2O6StthQqP4xMSU5OosCeuLTv2tXISf=w2213-h895-rw)
